@@ -6,7 +6,7 @@ Sample project for demonstrating how to upload file from web through express to 
 ## Setup
 ##### 1.Download Project
 ```bash
-git clone https://github.com/ryanhanwu/express-upload-amazon-s3.git
+git https://github.com/formysister/aws-s3-mangement-express-server.git
 ```
 ##### 2.Install required packages
 ```bash
